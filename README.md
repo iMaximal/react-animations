@@ -14,3 +14,11 @@ npm i
 ````bash
 npm run start
 ````
+
+### Alternatives
+
+React-Motion
+
+React-Move
+
+React Router Transition
